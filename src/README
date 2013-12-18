@@ -1,0 +1,14 @@
+Description of source files in this folder:
+
+1. rflex LCD driver files:
+- rflex_driver.cc
+
+2. atrvjr specific files:
+- atrvjr_driver.cc
+- atrvjr_node.cc
+
+3. atrvjr model for rviz:
+- atrvjr_urdf.xml
+
+4. Files developed:
+- keyboard_control.cpp

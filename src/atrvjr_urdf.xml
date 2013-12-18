@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<robot name="atrvjr">
+   
+   <!--  link name="front_right_wheel" />
+   <!link name="front_left_wheel" />
+   <!link name="back_right_wheel" />
+   <!link name="back_left_wheel" /-->
+ <link name="base_link">
+   <visual>
+     <geometry>
+      <box size="0.775 0.387 0.415">
+     </geometry>
+   </visual>
+ </link>
+</robot>
